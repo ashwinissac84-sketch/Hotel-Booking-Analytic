@@ -182,3 +182,19 @@ Data Analytics | Python | SQL | PostgreSQL | Streamlit
 ---
 
 *This project demonstrates practical data cleaning, exploratory analysis, SQL querying, data visualization, database connectivity, and interactive dashboard development.*
+
+## Interactive Streamlit Dashboard
+
+## Dashboard Preview
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### 2. Hotel Performance & Cancellation Analysis
+![Hotel Cancellation Analysis](screenshots/hotel-cancellation-analysis.png)
+
+### 3. Customer Segmentation
+![Customer Segmentation](screenshots/customer-segmentation.png)
+
+### 4. Country Booking Analysis
+![Country Booking Analysis](screenshots/country-booking-analysis.png)
