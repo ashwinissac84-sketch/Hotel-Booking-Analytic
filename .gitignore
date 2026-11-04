@@ -1,0 +1,29 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dataset files
+data/*.csv
+data/*.xlsx
+
+# Generated files
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
